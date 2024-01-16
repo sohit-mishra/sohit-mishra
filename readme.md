@@ -1,8 +1,8 @@
 # Hi 👋, I'm Sohit Mishra
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=sohit-mishra&style=flat-square&color=blue" alt=""/>
 
-![alt text](/img/profile.svg)
+![alt text](https://imglogo.netlify.app/img/profile.svg)
 
 I'm a passionate full-stack web developer with expertise in **HTML, CSS, JavaScript, Node.js, React.js**, and more.
 
@@ -16,28 +16,28 @@ Let's connect and explore my projects on GitHub. Reach out at [7836020160s@gmail
 
 
 ## 🖥️ Language and tools 🖥️
-<img src="img/adobexd.svg" width="40" height="40">
-<img src="img/figma.svg" width="40" height="40">
-<img src="img/vscode.svg" width="40" height="40">
-<img src="img/html.svg" width="40" height="40">
-<img src="img/css.svg" width="40" height="40">
-<img src="img/bootstrap.svg" width="40" height="40">
-<img src="img/js.svg" width="40" height="40">
-<img src="img/postman.svg" width="40" height="40">
-<img src="img/nodejs.svg" width="40" height="40">
-<img src="img/git.svg" width="40" height="40">
-<img src="img/github.svg" width="40" height="40">
-<img src="img/php.svg" width="40" height="40">
-<img src="img/react.svg" width="40" height="40">
-<img src="img/mysql.svg" width="40" height="40">
-<img src="img/gulpfile.svg" width="40" height="40">
-<img src="img/slack.svg" width="40" height="40">
-<img src="img/netlify.svg" width="40" height="40">
-
-
+<div style="display:flex;flex-wrap: wrap;">
+    <img src="https://imglogo.netlify.app/img/adobexd.svg" width="40" height="40">
+    <img src="https://imglogo.netlify.app/img/figma.svg" width="40" height="40">
+    <img src="https://imglogo.netlify.app/img/vscode.svg" width="40" height="40">
+    <img src="https://imglogo.netlify.app/img/html.svg" width="40" height="40">
+    <img src="https://imglogo.netlify.app/img/css.svg" width="40" height="40">
+    <img src="https://imglogo.netlify.app/img/bootstrap.svg" width="40" height="40">
+    <img src="https://imglogo.netlify.app/img/js.svg" width="40" height="40">
+    <img src="https://imglogo.netlify.app/img/postman.svg" width="40" height="40">
+    <img src="https://imglogo.netlify.app/img/nodejs.svg" width="40" height="40">
+    <img src="https://imglogo.netlify.app/img/git.svg" width="40" height="40">
+    <img src="https://imglogo.netlify.app/img/github.svg" width="40" height="40">
+    <img src="https://imglogo.netlify.app/img/php.svg" width="40" height="40">
+    <img src="https://imglogo.netlify.app/img/react.svg" width="40" height="40">
+    <img src="https://imglogo.netlify.app/img/mysql.svg" width="40" height="40">
+    <img src="https://imglogo.netlify.app/img/gulpfile.svg" width="40" height="40">
+    <img src="https://imglogo.netlify.app/img/slack.svg" width="40" height="40">
+    <img src="https://imglogo.netlify.app/img/netlify.svg" width="40" height="40">
+    </div>
 
 ## 🤝Let's Connect
-<a href= "https://www.linkedin.com/in/sohitmishra/"><img src="img/link.svg" alt="Linkedin" width="40" height="40"></a>
+<a href= "https://www.linkedin.com/in/sohitmishra/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" width="40" height="40"></a>
 
 
 
