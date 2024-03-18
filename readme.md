@@ -2,7 +2,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=sohit-mishra&style=flat-square&color=blue" alt=""/>
 
-![alt text](https://imglogo.netlify.app/img/profile.svg)
+<img src="https://imglogo.netlify.app/img/profile.svg" width="500" height="400">
+
 
 I'm a passionate full-stack web developer with expertise in **HTML, CSS, JavaScript, Node.js, React.js**, and more.
 
